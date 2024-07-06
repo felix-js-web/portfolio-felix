@@ -1,0 +1,22 @@
+.headerContainer{
+    height: 150px;
+    background-image: url(../images/stripes.jpg);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profileName{
+    background-color: rgb(123, 209, 217);
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    /* margin: 50px; */
+    text-align: right;
+    font-size: 50px;
+    font-weight: bolder !important;
+    color: black;
+    /* text-shadow: black 0.1em 0.1em 0.2em     */
+}
+
